@@ -1,14 +1,13 @@
 
 <p>
 <p align="left">
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on  Home automation android app<br>
+- 🌱 I’m currently learning  CNN , ROS and android <br>
+- 👯 I’m looking to collaborate on ROS and android<br>
+- 💬 Ask me about android <br>
+- 📫 How to reach me: ![Nagesh Bansal](https://www.linkedin.com/in/nagesh-bansal-24a3401a7).<br>
+- 😄 Pronouns: He/Him<br>
+
   
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right"/>
 
