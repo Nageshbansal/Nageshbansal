@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning  CNN , ROS and android <br>
 - 👯 I’m looking to collaborate on ROS and android<br>
 - 💬 Ask me about android <br>
-  - 📫 How to reach me: <a href="(https://www.linkedin.com/in/nagesh-bansal-24a3401a7)">Nagesh Bansal</a> <br>
 - 😄 Pronouns: He/Him<br>
 
   
