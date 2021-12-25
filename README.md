@@ -1,4 +1,4 @@
-<div class="flex-container" style="display: flex">
+<div class="flex-container" style="display:flex;flex-direction:row">
  <div class="flex-child">
 <p>
 - 🔭 I’m currently working on  Home automation android app and ROS <br>
@@ -9,7 +9,7 @@
    </p>
    </div>
    <div class="flex-child">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="300px" width="300px"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="200px" width="200px"/>
    </div>
    </div>
 
