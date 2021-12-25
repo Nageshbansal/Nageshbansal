@@ -7,8 +7,9 @@
 - 💬 Ask me about android, ROS and Python <br>
 - 😄 Pronouns: He/Him<br>
 
-  
+ <div height="30px" width="30px">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right"/>
+   </div>
 
 </p>
 </p>
