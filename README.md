@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him<br>
 
  <div height="10px" width="10px">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="10px"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" height="40px" width="40px"/>
    </div>
 
 </p>
