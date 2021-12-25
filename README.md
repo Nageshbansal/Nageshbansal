@@ -1,6 +1,6 @@
 <div class="flex-container" style="display: flex">
  <div class="flex-child">
-<p align="left">
+<p>
 - 🔭 I’m currently working on  Home automation android app and ROS <br>
 - 🌱 I’m currently learning  CNN , ROS and android <br>
 - 👯 I’m looking to collaborate on ROS , Python , Machine learning and android <br>
