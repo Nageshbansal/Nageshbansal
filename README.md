@@ -1,4 +1,4 @@
-    - 🔭 I’m currently working on  Home automation android app and ROS
+    - 🔭 I’m currently working on ROS
      - 🌱 I’m currently learning  CNN , ROS and android
      - 👯 I’m looking to collaborate on ROS , Python , Machine learning and android
      - 💬 Ask me about android, ROS and Python 
