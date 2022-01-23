@@ -5,7 +5,7 @@
      - 😄 Pronouns: He/Him
      
      
-![Nagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nageshbansal&show_icons=true&theme=radical)
+![Nagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtanion&show_icons=true&theme=radical)
 <!-- <div class="flex" style="display:flex;flex-direction:row">
  <div class="flex-child"> -->
      
