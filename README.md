@@ -5,10 +5,10 @@
      - 😄 Pronouns: He/Him
      
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nageshbansal&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nageshbansal&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nageshbansal&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nageshbansal&layout=compact&theme=dark&count=10" />
 </a>
 <!-- <div class="flex" style="display:flex;flex-direction:row">
  <div class="flex-child"> -->
