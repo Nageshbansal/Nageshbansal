@@ -3,6 +3,13 @@
      - 👯 I’m looking to collaborate on ROS , Python , Machine learning and android
      - 💬 Ask me about android, ROS and Python 
      - 😄 Pronouns: He/Him
+<a href="https://github.com/Nageshbansal/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Nageshbansal&style=for-the-badge&color=blueviolet">
+</a>
+
+
+
+
 <!-- <a >     
     <img src="https://github.com/Nageshbansal/Nageshbansal/blob/main/deku_run.gif" style="height='10%';width='100%' " />
 </a> -->
