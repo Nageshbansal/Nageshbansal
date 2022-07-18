@@ -3,6 +3,7 @@
      - 👯 I’m looking to collaborate on ROS , Python , Machine learning and android
      - 💬 Ask me about android, ROS and Python 
      - 😄 Pronouns: He/Him
+     - My GPG Fingerprint : 102E-B45E-5255-0122
 <a href="https://github.com/Nageshbansal/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nageshbansal&style=for-the-badge&color=blueviolet">
 </a>
