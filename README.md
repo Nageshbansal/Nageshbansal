@@ -22,5 +22,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nageshbansal&layout=compact&theme=dark&langs_count=10&hide_title=False&hide_border=True" />
 </a>
 -->
-   
-
+#### My Recent Blogs
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nageshbansal59/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nageshbansal59/0" alt="Recent Article 0"> 
