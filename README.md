@@ -1,4 +1,4 @@
-    - 🔭 I’m currently working on ROS, Data Analysis, 
+    - 🔭 I’m currently working on Reverse Engineering, Data Mining, Spatial Data Anaylsis
      - 🌱 I’m currently learning  CNN , ROS and android
      - 👯 I’m looking to collaborate on ROS , Python , Machine learning and android
      - 💬 Ask me about android, ROS and Python 
