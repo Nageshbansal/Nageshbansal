@@ -1,4 +1,4 @@
-    - 🔭 I’m currently working on Data Mining, Spatial Data Anaylsis
+    - 🔭 I’m currently working on CloudOps, Kubernetes, Distributed computingm, Data Mining, Spatial Data Anaylsis
      - 🌱 I’m currently learning k8s, CNN
      - 👯 I’m looking to collaborate on ROS , Python , Machine learning and android
      - 💬 Ask me about android, ROS and Python 
