@@ -7,5 +7,5 @@
 
 
 #### Looking for Full-time/ Intern / Contract position for SDE/ Backend/ Devops/ OSS/ K8s/ Cloud Roles. 
-My website: https://nagesh-node.me
-Want to have a chat, book a [meeting]([url](https://calendly.com/nageshbansalnode/30min))
+- My website: https://nagesh-node.me
+- Want to have a chat, book a [meeting](https://calendly.com/nageshbansalnode/30min)
